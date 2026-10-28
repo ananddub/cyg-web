@@ -1,0 +1,9 @@
+{
+  "name": "cyg-client",
+  "version": "0.2.0",
+  "description": "CYG web client SDK — reactive state sync, callbacks, RPC for CYG game servers",
+  "main": "cyg.js",
+  "types": "cyg.d.ts",
+  "license": "Apache-2.0",
+  "keywords": ["multiplayer", "game-server", "websocket", "webrtc", "netcode"]
+}
